@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+fieldset {
+	display: inline-block;
+}
+.index{
+	width: 100%;
+}
+.insertTitle{
+	margin : auto;
+	display: inline-block;
+	width: 500px;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+ul li{
+	display: inline-block;
+	margin: 20px;
+	width: 200px;
+}
+
+ul  li a:hover{
+	color: skyblue;
+	font-size:30px;
+	
+}
+
+ul li a {
+	color : black;
+	text-decoration: none;
+}
+
+table{
+	text-align: center;
+}
